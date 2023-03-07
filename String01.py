@@ -8,7 +8,7 @@ def main():
     a="12345678"
     
     
-    return(len(a))
+    return((a))
 x=main()
 print(x)
 
