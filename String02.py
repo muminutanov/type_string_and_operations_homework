@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="CODESCHOOLUZ"
+    return(a)
+x=main() 
+print(x)
