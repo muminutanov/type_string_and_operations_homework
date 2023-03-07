@@ -7,4 +7,9 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    s1="python"
+    s2="coder"
+    
+    return ("python " + "coder")
+x=main("python","coder")
+print(x)
