@@ -6,4 +6,9 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="12345"
+    b="*"*len(a)
+
+    return (b)
+x=main()
+print(x)
